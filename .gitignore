@@ -1,0 +1,5 @@
+.eggs
+.vscode
+dist
+build
+.DS_Store
